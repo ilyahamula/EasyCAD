@@ -12,7 +12,6 @@ class cAPP
 
 public:
   static cAPP& Instance();
-  int* GetArr();
 
 private:
 
