@@ -6,7 +6,7 @@ class cAPP
   cAPP(const cAPP&) = delete;
   cAPP(cAPP&&) = delete;
   cAPP& operator=(const cAPP&) = delete;
-
+  
   cAPP();
   ~cAPP();
 
