@@ -14,6 +14,7 @@ public:
   static cAPP& Instance();
 
 private:
+  int version;
 
 };
 
